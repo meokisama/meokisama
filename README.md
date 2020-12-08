@@ -12,7 +12,7 @@ A wibu come from Vietnam 😀. I'm currently studying CyberSecurity/Information 
 - Daily photos on <a href="https://www.instagram.com/hi.im.meoki/">__Instagram__</a> 📷
 - "Wibu" collection on <a href="https://www.flickr.com/photos/meokisama/albums">__Flickr__</a> 👾\
 ##
-___NOTE:___ _Top languages shown below does not indicate my skill level or something like that, it's just a github metric of which languages I have the most code on Github._
+___NOTE:___ _Top languages shown below does not indicate my skill level or something like that, like its title - "Most Used Languages", it's just a github metric of which languages I have the most code on Github._
 
 
 <a href="https://github.com/meokisama">
