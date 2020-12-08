@@ -12,12 +12,12 @@ A wibu come from Vietnam 😀. I'm currently studying CyberSecurity/Information 
 - Daily photos on <a href="https://www.instagram.com/hi.im.meoki/">__Instagram__</a> 📷
 - "Wibu" collection on <a href="https://www.flickr.com/photos/meokisama/albums">__Flickr__</a> 👾\
 ##
-___NOTE:___ _Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on Github._
+___NOTE:___ _Top languages shown below does not indicate my skill level or something like that, it's just a github metric of which languages I have the most code on Github._
 
 
 <a href="https://github.com/meokisama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meokisama&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meokisama&show_icons=true&include_all_commits=true&theme=vue" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/meokisama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meokisama&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meokisama&layout=compact&theme=vue" />
 </a>
