@@ -1,7 +1,7 @@
 # Hi, I'm Sáng 👋🏾
 [![meokisama](dino.gif)](https://facebook.com/slytherinnn)
 
-A wibu come from Vietnam 😀. I'm currently studying CyberSecurity/Information Security at UIT - Vietnam National University Ho Chi Minh City. I have a strong passion for 2D animation, Anime specifically 😀. Weeboo never dieee ! And, welcome to my world !
+A wibu come from Vietnam 😀. I'm currently studying CyberSecurity/Information Security at UIT - Vietnam National University Ho Chi Minh City. I have a strong passion for 2D animation, Anime specifically 😀. Weeboo never dieee ! And, welcome to my world!
 
 
 ## Find me around the web 🌎:
