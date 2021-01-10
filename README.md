@@ -25,5 +25,3 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 <a href="https://github.com/meokisama">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meokisama&layout=compact&theme=vue&langs_count=10" />
 </a>
- 
-![Metrics](https://metrics.lecoq.io/meokisama?template=classic&base.header=0&isocalendar=1&pagespeed=1&tweets=1&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&tweets.limit=2&config.timezone=Asia%2FSaigon)
