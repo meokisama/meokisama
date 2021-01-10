@@ -27,3 +27,6 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 </a>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/meokisama/meokisama/master/profile-summary-card-output/vue/0-profile-details.svg"/> </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
