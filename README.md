@@ -26,7 +26,11 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meokisama&layout=compact&theme=vue&langs_count=10" />
 </a>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/meokisama/meokisama/master/profile-summary-card-output/vue/0-profile-details.svg"/> </p>
+<div style="overflow: hidden;justify-content:space-around;">
+<img align="center" src="https://raw.githubusercontent.com/meokisama/meokisama/master/profile-summary-card-output/vue/0-profile-details.svg"/>
+<img  align="center" src="image/favicon.png">
+</div>
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
