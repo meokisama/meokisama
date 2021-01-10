@@ -28,7 +28,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 <div style="overflow: hidden;justify-content:space-around;">
 <img align="center" src="https://raw.githubusercontent.com/meokisama/meokisama/master/profile-summary-card-output/vue/0-profile-details.svg"/>
-<img  align="center" src="image/favicon.png" width="193">
+<img  align="center" src="image/favicon.png" width="150">
 </div>
 
 #### The sadness...
