@@ -73,7 +73,7 @@
 				}
 				p {
 					font-weight:400;
-					font-family: 'Montserrat';
+					font-family: 'Montserrat', sans-serif;
 					font-size: 15px;
 					/* text-shadow: 0 1px 0 #efefef; */
 					animation: 1s ease 0s normal forwards 1 fadeIn;
