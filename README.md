@@ -31,8 +31,7 @@ A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Inform
     <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### We can't work without music (it's me, actually)
-![](metrics.plugin.spotify.svg)
+
 
 ### Find me around the web 🌎
 <a href="https://facebook.com/slytherinnn/"><img align="left" width="150" height="150" src="https://github.com/meokisama/meokisama/blob/master/image/2750554.png"> </a>
@@ -42,10 +41,12 @@ A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Inform
 - Daily photos on <a href="https://www.instagram.com/hi.im.meoki/">__Instagram__</a> 📷
 - "Wibu" collection on <a href="https://www.flickr.com/photos/meokisama/albums">__Flickr__</a> 👾
 
-<br>
+### We can't work without music (it's me, actually)
+![](metrics.plugin.spotify.svg)
 
 ##
 
+### And a little Japanese culture
 [![](metrics.plugin.personal.anilist.svg)](https://anilist.co/user/meokisama/)
 
 ##
