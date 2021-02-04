@@ -28,6 +28,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_sort: stars    # Sort by most starred topics
           plugin_topics_limit: 0
+          config_order: isocalendar, topics
           config_padding: 10%
 
       - name: 🦑 Personal metrics (additional)
