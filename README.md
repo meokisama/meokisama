@@ -32,7 +32,7 @@ A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Inform
     <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-## Find me around the web 🌎:
+## Find me around the web 🌎
 <a href="https://facebook.com/slytherinnn/"><img align="left" width="150" height="150" src="https://github.com/meokisama/meokisama/blob/master/image/2750554.png"> </a>
 - Information in public on <a href="https://meokisama.github.io/">__Blog__</a> ✍🏾
 - Sharing updates on <a href="https://facebook.com/slytherinnn/">__Facebook__</a> 💼
@@ -53,10 +53,10 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meokisama&layout=compact&theme=vue&langs_count=10" />
 </a>
 
-<div style="overflow: hidden;justify-content:space-around;">
+<!--<div style="overflow: hidden;justify-content:space-around;">
   <img align="center" src="https://raw.githubusercontent.com/meokisama/meokisama/master/profile-summary-card-output/vue/0-profile-details.svg"/>
   <img align="center" src="image/favicon.png" width="150">
-</div>
+</div> -->
 
 #### The sadness...
 
