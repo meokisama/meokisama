@@ -41,10 +41,12 @@ A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Inform
 - Daily photos on <a href="https://www.instagram.com/hi.im.meoki/">__Instagram__</a> 📷
 - "Wibu" collection on <a href="https://www.flickr.com/photos/meokisama/albums">__Flickr__</a> 👾
 
-### We can't work without music (it's me, actually)
-![](metrics.plugin.spotify.svg)
+<br>
 
 ##
+
+### We can't work without music (it's me, actually)
+![](metrics.plugin.spotify.svg)
 
 ### And a little Japanese culture
 [![](metrics.plugin.personal.anilist.svg)](https://anilist.co/user/meokisama/)
