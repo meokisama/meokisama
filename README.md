@@ -7,7 +7,7 @@
 ## Hi, I'm Sáng 👋🏾
 A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Information Security** at **UIT - Vietnam National University Ho Chi Minh City**. I have a strong passion for 2D animation, **Anime** specifically 😀. Weeboo never dieee ! And, welcome to my world!
 
-## Languages
+### Languages
 <p align="center">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,7 +20,7 @@ A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Inform
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-## Tools & Frameworks
+### Tools & Frameworks
 <p align="center">
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -40,7 +40,9 @@ A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Inform
 - Daily photos on <a href="https://www.instagram.com/hi.im.meoki/">__Instagram__</a> 📷
 - "Wibu" collection on <a href="https://www.flickr.com/photos/meokisama/albums">__Flickr__</a> 👾
 
-<br>
+##
+
+![](metrics.plugin.personal.anilist.svg)
 
 ##
 ___NOTE:___ _Top languages shown below does not indicate my skill level or something like that, like its title - "Most Used Languages", it's just a github metric of which languages I have the most code on Github._
