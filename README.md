@@ -44,7 +44,7 @@ A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Inform
 
 ##
 
-![](metrics.plugin.personal.anilist.svg)
+[![](metrics.plugin.personal.anilist.svg)](https://anilist.co/user/meokisama/)
 
 ##
 ___NOTE:___ _Top languages shown below does not indicate my skill level or something like that, like its title - "Most Used Languages", it's just a github metric of which languages I have the most code on Github._
