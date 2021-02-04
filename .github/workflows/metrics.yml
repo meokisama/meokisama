@@ -25,10 +25,8 @@ jobs:
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_topics: yes
-          plugin_topics_sort: stars    # Sort by most starred topics
-          plugin_topics_limit: 0
-          config_order: isocalendar, topics
+          plugin_stars: yes
+          plugin_stars_limit: 4
           config_padding: 10%
 
       - name: 🦑 Personal metrics (additional)
