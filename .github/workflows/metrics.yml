@@ -86,3 +86,25 @@ jobs:
           plugin_music: yes
           plugin_music_limit: 5
           plugin_music_playlist: https://open.spotify.com/embed/playlist/5zB4kxGIGsCpcVzdxBEJLL
+          
+      - name: 🦑 Personal metrics (twitter)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.twitter.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_tweets: yes
+          plugin_tweets_limit: 3
+          plugin_tweets_user: meokiiii
+          config_padding: 6%, 10%
+          
+      - name: 🦑 Personal metrics (twitter)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.twitter.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: meokisama.github.io
