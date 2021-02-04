@@ -64,3 +64,12 @@ jobs:
           plugin_anilist_limit_characters: 22
           config_padding: 6%, 10%
           use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION!
+          
+      - name: 🦑 Personal metrics (twitter)
+        uses: lowlighter/metrics@master # ⚠️ Using master to use unreleased features
+        with:
+          filename: metrics.plugin.twitter.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_tweets: yes
+          plugin_tweets_limit: 2 
