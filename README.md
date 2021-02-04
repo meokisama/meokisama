@@ -62,6 +62,10 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
   <img align="center" src="image/favicon.png" width="150">
 </div> -->
 
+<p align="center">
+    <img src="metrics.svg"/>
+</p>
+
 #### The sadness...
 
 <!--START_SECTION:waka-->
