@@ -6,7 +6,6 @@
 
 ## Hi, I'm Sáng 👋🏾
 A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Information Security** at **UIT - Vietnam National University Ho Chi Minh City**. I have a strong passion for 2D animation, **Anime** specifically 😀. Weeboo never dieee ! And, welcome to my world!
-
 ### Languages
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -31,6 +30,9 @@ A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Inform
     <img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+
+### We can't work without music (actually me)
+![](metrics.plugin.spotify.svg)
 
 ### Find me around the web 🌎
 <a href="https://facebook.com/slytherinnn/"><img align="left" width="150" height="150" src="https://github.com/meokisama/meokisama/blob/master/image/2750554.png"> </a>
@@ -62,10 +64,12 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
   <img align="center" src="image/favicon.png" width="150">
 </div> -->
 
-<p align="center">
-    <img src="metrics.svg"/>
-</p>
+<div style="overflow: hidden;justify-content:space-around;">
+  <img align="center" src="metrics.plugin.starred.svg" width="450"/>
+  <img align="center" src="metrics.svg" width="400">
+</div>
 
+##
 #### The sadness...
 
 <!--START_SECTION:waka-->
