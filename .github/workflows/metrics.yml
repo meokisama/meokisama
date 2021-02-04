@@ -18,7 +18,7 @@ jobs:
       - name: 🦑 Personal metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: metrics.calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
@@ -26,7 +26,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 2
           config_padding: 10%
 
       - name: 🦑 Personal metrics (additional)
@@ -99,10 +99,10 @@ jobs:
           plugin_tweets_user: meokiiii
           config_padding: 6%, 10%
           
-      - name: 🦑 Personal metrics (twitter)
+      - name: 🦑 Personal metrics (pagespeed)
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.twitter.svg
+          filename: metrics.pagespeed.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
