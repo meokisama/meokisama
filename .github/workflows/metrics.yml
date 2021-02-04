@@ -21,11 +21,10 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, repositories
+          base: ""
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          config_order: base.header, isocalendar, base.repositories
           config_padding: 10%
 
       - name: 🦑 Personal metrics (additional)
@@ -66,7 +65,7 @@ jobs:
           use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION!
           
       - name: 🦑 Personal metrics (starred)
-        uses: lowlighter/metrics@master # ⚠️ Using master to use unreleased features
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.starred.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -74,4 +73,14 @@ jobs:
           plugin_topics: yes
           plugin_topics_sort: stars    # Sort by most starred topics
           plugin_topics_mode: mastered # Display icons instead of labels
-          plugin_topics_limit: 0 
+          plugin_topics_limit: 0
+          
+      - name: 🦑 Personal metrics (spotify)
+        uses: lowlighter/metrics@master # ⚠️ Using master to use unreleased features
+        with:
+          filename: metrics.plugin.spotify.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_music: yes
+          plugin_music_limit: 5
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/5zB4kxGIGsCpcVzdxBEJLL
