@@ -31,7 +31,7 @@ A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Inform
     <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### We can't work without music (actually me)
+### We can't work without music (it's me, actually)
 ![](metrics.plugin.spotify.svg)
 
 ### Find me around the web 🌎
@@ -66,7 +66,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 <div style="overflow: hidden;justify-content:space-around;">
   <img align="center" src="metrics.plugin.starred.svg" width="450"/>
-  <img align="center" src="metrics.svg" width="400">
+  <img align="center" src="metrics.calendar.svg" width="400">
 </div>
 
 ##
