@@ -65,11 +65,13 @@ jobs:
           config_padding: 6%, 10%
           use_prebuilt_image: master # ⚠️ DO NOT USE THIS OPTION!
           
-      - name: 🦑 Personal metrics (twitter)
+      - name: 🦑 Personal metrics (starred)
         uses: lowlighter/metrics@master # ⚠️ Using master to use unreleased features
         with:
-          filename: metrics.plugin.twitter.svg
-          token: NOT_NEEDED
+          filename: metrics.plugin.starred.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_tweets: yes
-          plugin_tweets_limit: 2 
+          plugin_topics: yes
+          plugin_topics_sort: stars    # Sort by most starred topics
+          plugin_topics_mode: mastered # Display icons instead of labels
+          plugin_topics_limit: 0 
