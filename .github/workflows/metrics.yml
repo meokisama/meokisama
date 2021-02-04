@@ -24,6 +24,7 @@ jobs:
           base: header, repositories
           plugin_lines: yes
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           config_order: base.header, isocalendar, base.repositories
           config_padding: 10%
 
