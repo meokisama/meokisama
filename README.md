@@ -51,7 +51,7 @@ Thanks for your attention ❤
 
 ### We can't work without music (it's me, actually)
 ![](metrics.plugin.music.svg)
-
+##
 ### And a little Japanese culture
 [![](metrics.plugin.personal.anilist.svg)](https://anilist.co/user/meokisama/)
 
