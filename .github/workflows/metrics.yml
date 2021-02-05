@@ -55,12 +55,12 @@ jobs:
           plugin_topics_mode: mastered # Display icons instead of labels
           plugin_topics_limit: 0
           
-      - name: 🦑 Personal metrics (spotify)
+      - name: 🦑 Personal metrics (music)
         uses: lowlighter/metrics@master # ⚠️ Using master to use unreleased features
         with:
-          filename: metrics.plugin.spotify.svg
+          filename: metrics.plugin.music.svg
           token: NOT_NEEDED
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_music: yes
-          plugin_music_limit: 5
+          plugin_music_limit: 6
           plugin_music_playlist: https://embed.music.apple.com/vn/playlist/meokis-corner/pl.u-aZb0NorC1lrv3mY
