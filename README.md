@@ -86,9 +86,9 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 **🐱 My Github Data** 
 
-> 🏆 631 Contributions in the Year 2021
+> 🏆 692 Contributions in the Year 2021
  > 
-> 📦 456.2 kB Used in Github's Storage 
+> 📦 461.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,12 +105,12 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 🌙 Night      34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.63%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
-Tuesday      63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
-Wednesday    144 commits    ███████░░░░░░░░░░░░░░░░░░   28.07% 
+Tuesday      124 commits    ██████░░░░░░░░░░░░░░░░░░░   24.17% 
+Wednesday    83 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
 Thursday     111 commits    █████░░░░░░░░░░░░░░░░░░░░   21.64% 
 Friday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
 Saturday     42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.19% 
