@@ -80,7 +80,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 #### The sadness...
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -88,7 +88,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 > 🏆 705 Contributions in the Year 2021
  > 
-> 📦 469.7 kB Used in Github's Storage 
+> 📦 474.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -125,15 +125,17 @@ Sunday       61 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 55 mins             ███████████████████░░░░░░   78.77% 
-JavaScript               15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.23%
+Markdown                 6 hrs 18 mins       ████████████████████░░░░░   82.21% 
+JavaScript               1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.0%
+VS Code                  7 hrs 40 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 6 mins         ███████████████████████░░   93.75% 
-Windows                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+Linux                    7 hrs 36 mins       ████████████████████████░   99.04% 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
 
 ```
 
