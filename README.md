@@ -80,15 +80,15 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 #### The sadness...
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 712 Contributions in the Year 2021
+> 🏆 713 Contributions in the Year 2021
  > 
-> 📦 482.3 kB Used in Github's Storage 
+> 📦 485.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,10 +109,10 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 ```text
 Monday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
-Tuesday      124 commits    ██████░░░░░░░░░░░░░░░░░░░   23.66% 
+Tuesday      123 commits    █████░░░░░░░░░░░░░░░░░░░░   23.47% 
 Wednesday    89 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
 Thursday     116 commits    █████░░░░░░░░░░░░░░░░░░░░   22.14% 
-Friday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
+Friday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
 Saturday     42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
 Sunday       61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.64%
 
