@@ -30,7 +30,7 @@ jobs:
           config_padding: 10%
           
       - name: 🦑 Personal metrics (anilist)
-        if: false # ${{ success() || failure() }}
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.personal.anilist.svg
