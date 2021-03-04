@@ -93,16 +93,6 @@ jobs:
           plugin_skyline_quality: 1
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           
-      - name: 💬 Organization metrics
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.organization.svg
-          user: uitlegion
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: header, repositories
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          
       - name: 🗨️ Stackoverflow plugin
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
