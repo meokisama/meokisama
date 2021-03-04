@@ -88,7 +88,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 > 🏆 775 Contributions in the Year 2021
  > 
-> 📦 709.2 kB Used in Github's Storage 
+> 📦 703.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -125,16 +125,13 @@ Sunday       65 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-CSS                      8 mins              █████████████░░░░░░░░░░░░   54.43% 
-HTML                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.84% 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   9.32%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
