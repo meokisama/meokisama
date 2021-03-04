@@ -89,7 +89,7 @@ jobs:
           token: NOT_NEEDED
           plugin_skyline: yes
           plugin_skyline_year: 2020
-          plugin_skyline_frames: 60
+          plugin_skyline_frames: 6
           plugin_skyline_quality: 1
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           
@@ -101,6 +101,7 @@ jobs:
           user: uitlegion
           token: ${{ secrets.METRICS_BOT_TOKEN }}
           base: header, repositories
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           
       - name: 🗨️ Stackoverflow plugin
         if: ${{ success() || failure() }}
