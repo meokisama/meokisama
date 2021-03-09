@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://meokisama.github.io">
+<a href="https://meoki.net">
     <img src="effect.svg"/>
 </a>
 </p>
@@ -7,7 +7,7 @@
 ## Hi, I'm Sáng 👋🏾
 A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Information Security** at UIT - Vietnam National University Ho Chi Minh City. I have a strong passion for Japanese culture (noo, not what you're thinking ~~jAv~~), I mean **Anime** 😀. Weeboo never dieee ! And, welcome to my world!
 
-For an overview about me and my some project, you can see at [**my portfolio**](https://meokisama.github.io). And for some writing articles that I made or shared, let's take a look at [**my blog**](https://meokisama.github.io/blog). And if you want to see some other things about me, I have some profile platforms below, check it out!
+For an overview about me and my some project, you can see at [**my portfolio**](https://meoki.net). And for some writing articles that I made or shared, let's take a look at [**my blog**](https://meoki.net/blog). And if you want to see some other things about me, I have some profile platforms below, check it out!
 
 Thanks for your attention ❤
 ### Languages
@@ -39,7 +39,7 @@ Thanks for your attention ❤
 
 ### Find me around the web 🌎
 <a href="https://facebook.com/slytherinnn/"><img align="left" width="150" height="150" src="https://github.com/meokisama/meokisama/blob/master/image/2750554.png"> </a>
-- Information in public on <a href="https://meoki.net/">__Blog__</a> ✍🏾
+- Information in public on <a href="https://meoki.net/">__Portfolio__</a> ✍🏾
 - Sharing updates on <a href="https://facebook.com/slytherinnn/">__Facebook__</a> 💼
 - Other products on <a href="https://www.behance.net/meokisama">__Behance__</a> 🏓
 - Daily photos on <a href="https://www.instagram.com/hi.im.meoki/">__Instagram__</a> 📷
