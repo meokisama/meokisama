@@ -86,9 +86,9 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 **🐱 My Github Data** 
 
-> 🏆 775 Contributions in the Year 2021
+> 🏆 777 Contributions in the Year 2021
  > 
-> 📦 837.8 kB Used in Github's Storage 
+> 📦 834.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,8 +99,8 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
-🌆 Daytime    300 commits    █████████████░░░░░░░░░░░░   52.45% 
+🌞 Morning    79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
+🌆 Daytime    298 commits    █████████████░░░░░░░░░░░░   52.1% 
 🌃 Evening    161 commits    ███████░░░░░░░░░░░░░░░░░░   28.15% 
 🌙 Night      34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.94%
 
