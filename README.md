@@ -88,7 +88,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 > 🏆 775 Contributions in the Year 2021
  > 
-> 📦 827.7 kB Used in Github's Storage 
+> 📦 837.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
