@@ -897,6 +897,9 @@
     font-size: 10px;
     padding: 0 5px;
   }
+  .achievement .gauge-base, .achievement .gauge-arc {
+    stroke-width: 6;
+  }
 
 /* Fade animation */
   .af {
@@ -1326,7 +1329,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated Sun, 14 Mar 2021 12:09:14 GMT with lowlighter/metrics@3.5.0-beta</span>
+          <span>Last updated Sun, 14 Mar 2021 14:07:52 GMT with lowlighter/metrics@3.5.0-beta</span>
         </footer>
       
       <div id="metrics-end"></div>
