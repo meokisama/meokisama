@@ -125,13 +125,14 @@ Sunday       65 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    14 mins             ████████████░░░░░░░░░░░░░   50.17% 
+Markdown                 14 mins             ████████████░░░░░░░░░░░░░   49.83%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  29 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  29 mins             █████████████████████████   100.0%
 
 ```
 
