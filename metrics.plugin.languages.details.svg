@@ -861,25 +861,31 @@
     font-size: 14px;
     color: #58A6FF;
   }
+  .achievement .gauge.info {
+    color: #58A6FF;
+  }
   .achievement.x .title {
     color: #666666;
   }
-  .achievement.x .icon {
-    filter: grayscale(1) opacity(.5);
+  .achievement.x .gauge.info {
+    color: #B0B0B0;
   }
   .achievement.b .title {
     color: #9D8FFF;
   }
-  .achievement.b .icon {
-    filter: hue-rotate(35deg);
+  .achievement.b .gauge.info {
+    color: #9E91FF;
   }
   .achievement.a .title {
     color: #D79533;
   }
-  .achievement.a .icon {
-    filter: sepia() saturate(2);
+  .achievement.a .gauge.info {
+    color: #E7BD69;
   }
   .achievement.s .title {
+    color: #FF0000;
+  }
+  .achievement.s .gauge.info {
     color: #FF0000;
   }
   .achievement.s .icon {
@@ -888,8 +894,8 @@
   .achievement.secret .title{
     color: #FF76CD;
   }
-  .achievement.secret .icon {
-    filter: hue-rotate(100deg);
+  .achievement.secret .gauge.info {
+    color: #FF79D1;
   }
   .achievement .gh {
     border: 1px solid currentColor;
@@ -1003,21 +1009,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="202.96153376297042" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="202.93361535897193" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="202.96153376297042" y="0" width="71.6215773280935" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="202.93361535897193" y="0" width="71.61172541135943" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="274.58311109106387" y="0" width="65.96180252106367" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="274.5453407703314" y="0" width="65.95272913549596" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="340.5449136121276" y="0" width="51.787121036992765" height="8" fill="#c6538c"/>
+          <rect mask="url(#languages-bar)" x="340.4980699058273" y="0" width="51.779997451847244" height="8" fill="#c6538c"/>
         
-          <rect mask="url(#languages-bar)" x="392.3320346491204" y="0" width="27.46087878258222" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="392.27806735767456" y="0" width="27.52037676580785" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="419.7929134317026" y="0" width="17.58035021246925" height="8" fill="#1d365d"/>
+          <rect mask="url(#languages-bar)" x="419.7984441234824" y="0" width="17.577931944777998" height="8" fill="#1d365d"/>
         
-          <rect mask="url(#languages-bar)" x="437.37326364417186" y="0" width="17.498219242703595" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="437.3763760682604" y="0" width="17.49581227255012" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="454.8714828868754" y="0" width="5.128517113124604" height="8" fill="#b07219"/>
+          <rect mask="url(#languages-bar)" x="454.8721883408105" y="0" width="5.1278116591894545" height="8" fill="#b07219"/>
         
       </svg>
       
@@ -1053,8 +1059,8 @@
                     C++
                   </div>
                   <small>
-                     <div>317 kB</div>
-                     <div>5.97%</div>
+                     <div>318 kB</div>
+                     <div>5.98%</div>
                   </small>
                 </div>
               
