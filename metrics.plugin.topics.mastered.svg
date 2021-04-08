@@ -937,6 +937,12 @@
     stroke: rgba(127, 127, 127, 0.4) !important;
   }
 
+/* Autosize */
+  .autosize {
+    width: auto;
+    height: auto;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -1247,7 +1253,7 @@
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Thu, 08 Apr 2021 20:04:05 GMT with lowlighter/metrics@3.7.0-beta
+                    Last updated Thu, 08 Apr 2021 22:03:43 GMT with lowlighter/metrics@3.7.0-beta
                 </span>
             </footer>
             <div id="metrics-end"></div>
