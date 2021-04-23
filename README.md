@@ -125,13 +125,14 @@ Sunday       71 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+GAS                      3 hrs 7 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 7 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 32 mins       ████████████████████░░░░░   81.14% 
+Windows                  35 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.86%
 
 ```
 
