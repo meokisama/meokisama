@@ -88,7 +88,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 > 🏆 936 Contributions in the Year 2021
  > 
-> 📦 2.3 MB Used in Github's Storage 
+> 📦 2.4 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -125,13 +125,13 @@ Sunday       79 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   21 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.0%
 
 ```
 
