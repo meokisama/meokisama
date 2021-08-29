@@ -86,7 +86,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 **🐱 My Github Data** 
 
-> 🏆 1,449 Contributions in the Year 2021
+> 🏆 1,450 Contributions in the Year 2021
  > 
 > 📦 4.3 MB Used in Github's Storage 
  > 
@@ -94,7 +94,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
  > 
 > 📜 48 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
