@@ -80,7 +80,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 #### The sadness...
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
@@ -88,7 +88,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 > 🏆 1,803 Contributions in the Year 2021
  > 
-> 📦 4.9 MB Used in GitHub's Storage 
+> 📦 5.0 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -127,7 +127,8 @@ Sunday       85 commits     ██░░░░░░░░░░░░░░░�
 💬 Programming Languages: 
 JavaScript               1 hr 13 mins        ██████████████░░░░░░░░░░░   56.95% 
 HTML                     50 mins             █████████░░░░░░░░░░░░░░░░   39.23% 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.82%
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.82% 
+CoffeeScript             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
 VS Code                  2 hrs 9 mins        █████████████████████████   100.0%
@@ -138,7 +139,7 @@ Windows                  2 hrs 9 mins        ███████████�
 ```
 
 
- Last Updated on 27/09/2021
+ Last Updated on 28/09/2021
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://github-profile-trophy.vercel.app/?username=meokisama&margin-w=4&no-frame=true&column=7)
