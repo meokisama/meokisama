@@ -125,14 +125,13 @@ Sunday       87 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-CSS                      2 hrs 22 mins       ██████████████░░░░░░░░░░░   58.91% 
-HTML                     1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   41.09%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 1 min         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 1 min         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
