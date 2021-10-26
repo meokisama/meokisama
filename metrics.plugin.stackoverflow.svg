@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="314" class="">
     <defs>
         <style/>
     </defs>
@@ -1391,8 +1391,18 @@
                         </div>
                                     </div>
                                     <div class="body markdown">
-                        An error occurred:code.replace is not a function
-Please report this to https://github.com/markedjs/marked.
+                        You can try something like this
+```
+boolean isContinue = true;
+Scanner in = new Scanner(System.in);
+do{
+    System.out.print("Do you want to continue practicing? (Y/N)");
+    String ans = in.nextLine();
+<code class="language-multiline">switch(ans) 
+{
+<span class="token trimmed">(6 more lines were trimmed)</span></code>
+while(isContinue);
+
                       </div>
                                     <div class="infos">
                                         <div>
