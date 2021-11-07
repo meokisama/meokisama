@@ -80,7 +80,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 #### The sadness...
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
@@ -88,7 +88,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 > 🏆 1,876 Contributions in the Year 2021
  > 
-> 📦 5.9 MB Used in GitHub's Storage 
+> 📦 6.0 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -125,16 +125,16 @@ Sunday       98 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-HTML                     1 hr                ████████████░░░░░░░░░░░░░   50.57% 
-CSS                      39 mins             ████████░░░░░░░░░░░░░░░░░   32.59% 
-XML                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
-Apache Config            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26%
+CSS                      39 mins             ██████████░░░░░░░░░░░░░░░   39.9% 
+HTML                     38 mins             █████████░░░░░░░░░░░░░░░░   39.49% 
+XML                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.07% 
+Apache Config            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54%
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        █████████████████████████   100.0%
+VS Code                  1 hr 37 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.0%
+Windows                  1 hr 37 mins        █████████████████████████   100.0%
 
 ```
 
