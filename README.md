@@ -80,9 +80,11 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 #### The sadness...
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2010%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -138,7 +140,7 @@ Windows                  1 hr 56 mins        ███████████�
 ```
 
 
- Last Updated on 01/12/2021
+ Last Updated on 02/12/2021
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://github-profile-trophy.vercel.app/?username=meokisama&margin-w=4&no-frame=true&column=7)
