@@ -5,7 +5,7 @@
 </p>
 
 ## Hi, I'm Sáng 👋🏾
-A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Information Security** at UIT - Vietnam National University Ho Chi Minh City. I have a strong passion for Japanese culture (noo, not what you're thinking ~~jAv~~), I mean **Anime** 😀. Weeboo never dieee ! And, welcome to my world!
+A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Information Security** at UIT - Vietnam National University Ho Chi Minh City. I have a strong passion for Japanese culture, I mean **Anime** 😀. Weeboo never dieee ! And, welcome to my world!
 
 For an overview about me and my some project, you can see at [**my portfolio**](https://meoki.net). And for some writing articles that I made or shared, let's take a look at [**my blog**](https://meoki.net/blog). And if you want to see some other things about me, I have some profile platforms below, check it out!
 
