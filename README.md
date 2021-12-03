@@ -50,7 +50,10 @@ Thanks for your attention ❤
 ##
 
 ### And a little Japanese culture
-<img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/anilist.png" />
+<p>
+    <a href="https://anilist.co/user/meokisama"> <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/anilist.png" /></a>
+    <a href="https://discord.gg/hNpaMKMtN8"> <img width="400px" align="right" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/discord.png" /></a>
+</p>
 <p>
     <img width="500px" src="metrics.plugin.personal.anilist.svg" />
     <img width="320px" style="vertical-align:bottom;align:right;" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/mashiiro-png.png" />
