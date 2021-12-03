@@ -49,31 +49,34 @@ Thanks for your attention ❤
 
 ##
 
-### We can't work without music (it's me, actually)
-![](metrics.plugin.music.svg)
-##
 ### And a little Japanese culture
-[![](metrics.plugin.personal.anilist.svg)](https://anilist.co/user/meokisama/)
+<p align="center">
+    <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/anilist.png" />
+    <img width="400px" src="metrics.plugin.personal.anilist.svg" />
+</p>
+
+<!--[![](metrics.plugin.personal.anilist.svg)](https://anilist.co/user/meokisama/)-->
 
 ##
 ___NOTE:___ _Top languages shown below does not indicate my skill level or something like that, like its title - "Most Used Languages", it's just a github metric of which languages I have the most code on Github._
 
-
-<a href="https://github.com/meokisama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meokisama&show_icons=true&include_all_commits=true&theme=vue&count_private=true&line_height=28.8" alt="Meoki's github stats" width="450px"/>
-</a>
-<a href="https://github.com/meokisama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meokisama&layout=compact&theme=vue&langs_count=8" />
-</a>
-
+<p align="center">
+    <a href="https://github.com/meokisama">
+        <img src="https://github-readme-stats.vercel.app/api?username=meokisama&show_icons=true&include_all_commits=true&theme=vue&count_private=true&line_height=28.8" alt="Meoki's github stats" width="450px"/>
+    </a>
+    <a href="https://github.com/meokisama">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meokisama&layout=compact&theme=vue&langs_count=8" />
+    </a>
+</p>
+    
 <!--<div style="overflow: hidden;justify-content:space-around;">
   <img align="center" src="https://raw.githubusercontent.com/meokisama/meokisama/master/profile-summary-card-output/vue/0-profile-details.svg"/>
   <img align="center" src="image/favicon.png" width="150">
 </div> -->
 
-<div style="overflow: hidden;justify-content:space-around;">
-  <img align="center" src="metrics.plugin.topics.mastered.svg" width="400"/>
-  <img align="center" src="metrics.plugin.calendar.svg" width="380">
+<div align="center" style="overflow: hidden;justify-content:space-around;">
+  <img src="metrics.plugin.topics.mastered.svg" width="400"/>
+  <img src="metrics.plugin.calendar.svg" width="380">
 </div>
 
 ##
