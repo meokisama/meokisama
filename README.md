@@ -50,7 +50,7 @@ Thanks for your attention ❤
 ##
 
 ### And a little Japanese culture
-*Hiii, about this 2D industry, we have a static anime-manga-lightnovel blog - **A Lonely Comet**, empire of dreamers, we write everything about anime-manga-light novel.*
+*Hiii, about this 2D industry, we have a static anime-manga-lightnovel blog - [**A Lonely Comet**](https://alonelycomet.meoki.net/), empire of dreamers, we write everything about anime-manga-light novel.*
 
 ***[Vietnamese]** Xin chào, đối với những ai có hứng thú, chúng ta cũng có một blog [**A Lonely Comet**](https://alonelycomet.meoki.net/) siêu xịn đây, thiên đường danh cho anh em wibu... Kèm theo đó là một server Discord bên dưới 😉*
 <p>
