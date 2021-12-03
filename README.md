@@ -55,7 +55,7 @@ Thanks for your attention ❤
 </p>
 <p>
     <img src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/mashiiro-400.png" />
-    <img width="400px" src="metrics.plugin.personal.anilist.svg" />
+    <img width="450px" src="metrics.plugin.personal.anilist.svg" />
 </p>
 
 
