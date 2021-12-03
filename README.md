@@ -51,7 +51,7 @@ Thanks for your attention ❤
 
 ### And a little Japanese culture
 <p align="right">
-    <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/anilist.png" />
+    <img width="380px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/anilist.png" />
 </p>
 <p>
     <img src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/mashiiro-400.png" />
