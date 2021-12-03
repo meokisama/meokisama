@@ -82,7 +82,7 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -127,20 +127,20 @@ Sunday       121 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-HTML                     1 hr 55 mins        ████████████████████████░   98.89% 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+HTML                     14 mins             ██████████░░░░░░░░░░░░░░░   43.19% 
+JavaScript               13 mins             █████████░░░░░░░░░░░░░░░░   38.16% 
+JSON                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.65%
 
 🔥 Editors: 
-VS Code                  1 hr 56 mins        █████████████████████████   100.0%
+VS Code                  34 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 56 mins        █████████████████████████   100.0%
+Windows                  34 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/12/2021
+ Last Updated on 03/12/2021
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://github-profile-trophy.vercel.app/?username=meokisama&margin-w=4&no-frame=true&column=7)
