@@ -156,3 +156,7 @@ Windows                  34 mins             ███████████�
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://github-profile-trophy.vercel.app/?username=meokisama&margin-w=4&no-frame=true&column=7)
+
+<p align="center">
+    <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/megumin.png" />
+</p
