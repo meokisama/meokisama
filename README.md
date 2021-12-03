@@ -60,10 +60,10 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 
 
 <a href="https://github.com/meokisama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meokisama&show_icons=true&include_all_commits=true&theme=vue&count_private=true&line_height=28.8" alt="Meoki's github stats" width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meokisama&show_icons=true&include_all_commits=true&theme=vue&count_private=true&line_height=28.8" alt="Meoki's github stats" width="450px"/>
 </a>
 <a href="https://github.com/meokisama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meokisama&layout=compact&theme=vue&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meokisama&layout=compact&theme=vue&langs_count=8" />
 </a>
 
 <!--<div style="overflow: hidden;justify-content:space-around;">
