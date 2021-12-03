@@ -53,7 +53,7 @@ Thanks for your attention ❤
 <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/anilist.png" />
 <p>
     <img width="450px" src="metrics.plugin.personal.anilist.svg" />
-    <img width="300px" align="right" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/mashiiro-png.png" />
+    <img width="320px" style="vertical-align:bottom;align:right;" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/mashiiro-png.png" />
 </p>
 
 
