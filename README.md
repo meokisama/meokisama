@@ -55,7 +55,7 @@ Thanks for your attention ❤
 ***[Vietnamese]** Xin chào, đối với những ai có hứng thú, chúng ta cũng có một blog [**A Lonely Comet**](https://alonelycomet.meoki.net/) siêu xịn đây, thiên đường danh cho anh em wibu... Kèm theo đó là một server Discord bên dưới 😉*
 <p>
     <a href="https://alonelycomet.meoki.net/"> <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/wibu-blog.png" /></a>
-    <a href="https://discord.gg/hNpaMKMtN8"> <img width="400px" align="right" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/discord.png" /></a>
+    <a href="https://discord.gg/hNpaMKMtN8"> <img width="400px" align="right" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/discord-small.png" /></a>
 </p>
 <p>
     <img width="500px" src="metrics.plugin.personal.anilist.svg" />
