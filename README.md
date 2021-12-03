@@ -89,7 +89,6 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 </div>
 
 ##
-#### The sadness...
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2010%20mins-blue)
