@@ -72,8 +72,8 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 </div> -->
 
 <div style="overflow: hidden;justify-content:space-around;">
-  <img align="center" src="metrics.plugin.topics.mastered.svg" width="450"/>
-  <img align="center" src="metrics.plugin.calendar.svg" width="400">
+  <img align="center" src="metrics.plugin.topics.mastered.svg" width="400"/>
+  <img align="center" src="metrics.plugin.calendar.svg" width="380">
 </div>
 
 ##
