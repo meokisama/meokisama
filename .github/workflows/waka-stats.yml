@@ -13,7 +13,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LINES_OF_CODE: "true"
+          SHOW_LINES_OF_CODE: "false"
           SHOW_LOC_CHART: "false"
           SHOW_LANGUAGE_PER_REPO: "false"
           SHOW_PROJECTS: "false"
+          SHOW_SHORT_INFO: "false"
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_TOTAL_CODE_TIME: "false"
