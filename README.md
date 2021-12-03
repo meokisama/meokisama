@@ -4,7 +4,7 @@
 </a>
 </p>
 
-<h2> Hi, I'm Sáng <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
+<h2> Hi, you can call me Meoki  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
 A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Information Security** at UIT - Vietnam National University Ho Chi Minh City. I have a strong passion for Japanese culture, I mean **Anime** 😀. Weeboo never dieee ! And, welcome to my world!
 
@@ -156,6 +156,8 @@ Windows                  34 mins             ███████████�
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://github-profile-trophy.vercel.app/?username=meokisama&margin-w=4&no-frame=true&column=7)
+
+*That's all, thanks and have a nice day!*
 
 <p align="center">
     <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/megumin.png" />
