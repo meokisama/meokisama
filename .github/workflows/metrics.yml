@@ -78,7 +78,7 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: meokisama.net
+          plugin_pagespeed_url: meoki.net
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           
       - name: 🌇 GitHub Skyline 3D calendar
