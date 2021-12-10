@@ -132,7 +132,7 @@ Windows                  33 mins             ███████████�
 ```
 
 
- Last Updated on 09/12/2021
+ Last Updated on 10/12/2021
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://github-profile-trophy.vercel.app/?username=meokisama&margin-w=4&no-frame=true&column=7)
