@@ -120,18 +120,20 @@ Sunday       53 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Python                   12 mins             ██████████████████░░░░░░░   72.09% 
+Markdown                 4 mins              ███████░░░░░░░░░░░░░░░░░░   27.91% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 08/04/2022 16:21:59 UTC
+ Last Updated on 08/04/2022 20:16:58 UTC
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://github-profile-trophy.vercel.app/?username=meokisama&margin-w=4&no-frame=true&column=7)
