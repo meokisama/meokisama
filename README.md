@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://meoki.net">
+<a href="https://meoki.vn">
     <img src="effect.svg"/>
 </a>
 </p>
@@ -8,7 +8,7 @@
 
 A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Information Security** at UIT - Vietnam National University Ho Chi Minh City. I have a strong passion for Japanese culture, I mean **Anime** 😀. Weeboo never dieee ! And, welcome to my world!
 
-For an overview about me and my some project, you can see at [**my portfolio**](https://meoki.net). And for some writing articles that I made or shared, let's take a look at [**my blog**](https://meoki.net/blog). And if you want to see some other things about me, I have some profile platforms below, check it out!
+For an overview about me and my some project, you can see at [**my portfolio**](https://meoki.vn). And for some writing articles that I made or shared, let's take a look at [**my blog**](https://meoki.vn/blog). And if you want to see some other things about me, I have some profile platforms below, check it out!
 
 Thanks for your attention ❤
 ### Languages
@@ -40,7 +40,7 @@ Thanks for your attention ❤
 
 ### Find me around the web 🌎
 <a href="https://facebook.com/slytherinnn/"><img align="left" width="150" height="150" src="https://github.com/meokisama/meokisama/blob/master/image/2750554.png"> </a>
-- Information in public on <a href="https://meoki.net/">__Portfolio__</a> ✍🏾
+- Information in public on <a href="https://meoki.vn/">__Portfolio__</a> ✍🏾
 - Sharing updates on <a href="https://facebook.com/slytherinnn/">__Facebook__</a> 💼
 - Other products on <a href="https://www.behance.net/meokisama">__Behance__</a> 🏓
 - Daily photos on <a href="https://www.instagram.com/hi.im.meoki/">__Instagram__</a> 📷
@@ -51,11 +51,11 @@ Thanks for your attention ❤
 ##
 
 ### And a little Japanese culture
-*Hiii, about this 2D industry, we have a static anime-manga-lightnovel blog - [**A Lonely Comet**](https://alonelycomet.meoki.net/), empire of dreamers, we write everything about anime-manga-light novel.*
+*Hiii, about this 2D industry, we have a static anime-manga-lightnovel blog - [**A Lonely Comet**](https://alonelycomet.meoki.vn/), empire of dreamers, we write everything about anime-manga-light novel.*
 
-***[Vietnamese]** Xin chào, đối với những ai có hứng thú, chúng ta cũng có một blog [**A Lonely Comet**](https://alonelycomet.meoki.net/) siêu xịn đây, thiên đường danh cho anh em wibu... Kèm theo đó là một server Discord bên dưới 😉*
+***[Vietnamese]** Xin chào, đối với những ai có hứng thú, chúng ta cũng có một blog [**A Lonely Comet**](https://alonelycomet.meoki.vn/) siêu xịn đây, thiên đường danh cho anh em wibu... Kèm theo đó là một server Discord bên dưới 😉*
 <p>
-    <a href="https://alonelycomet.meoki.net/"> <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/wibu-blog.png" /></a>
+    <a href="https://alonelycomet.meoki.vn/"> <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/wibu-blog.png" /></a>
     <a href="https://discord.gg/hNpaMKMtN8"> <img width="400px" align="right" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/discord-small.png" /></a>
 </p>
 <p>
