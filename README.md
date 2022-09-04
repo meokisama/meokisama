@@ -91,8 +91,47 @@ ___NOTE:___ _Top languages shown below does not indicate my skill level or somet
 ##
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 04/09/2022 08:20:01 UTC
+```text
+🌞 Morning    164 commits    ██████░░░░░░░░░░░░░░░░░░░   26.11% 
+🌆 Daytime    272 commits    ██████████░░░░░░░░░░░░░░░   43.31% 
+🌃 Evening    170 commits    ██████░░░░░░░░░░░░░░░░░░░   27.07% 
+🌙 Night      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.5%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.8% 
+Tuesday      63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.03% 
+Wednesday    79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
+Thursday     107 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+Friday       104 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
+Saturday     173 commits    ███████░░░░░░░░░░░░░░░░░░   27.55% 
+Sunday       53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.44%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 04/09/2022 12:31:47 UTC
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://github-profile-trophy.vercel.app/?username=meokisama&margin-w=4&no-frame=true&column=7)
