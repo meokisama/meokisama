@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="314" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" class="">
     <defs>
         <style/>
     </defs>
@@ -77,16 +77,9 @@
                                     </div>
                                     <div class="body markdown">
                                         You can try something like this
-```
-boolean isContinue = true;
+                                        <code class="language-multiline" xml:space="preserve">boolean isContinue = true;
 Scanner in = new Scanner(System.in);
-do{
-    System.out.print("Do you want to continue practicing? (Y/N)");
-    String ans = in.nextLine();
-                                        <code class="language-multiline" xml:space="preserve">switch(ans) 
-{
-<span class="token trimmed">(6 more lines were trimmed)</span></code>
-                                        while(isContinue);
+<span class="token trimmed">(14 more lines were trimmed)</span></code>
                                     </div>
                                     <div class="infos">
                                         <div>
