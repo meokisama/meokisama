@@ -4,13 +4,13 @@
 </a>
 </p>
 
-<h2> Hi, you can call me Meoki  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
+<h2> Greetings!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
-A wibu come from **Vietnam** 😀. I'm currently studying **CyberSecurity/Information Security** at UIT - Vietnam National University Ho Chi Minh City. I have a strong passion for Japanese culture, I mean **Anime** 😀. Weeboo never dieee ! And, welcome to my world!
+Hello there! I'm **Meoki**, a passionate individual with a curiosity-driven mindset. I find joy in exploring the wonders of the world and engaging in meaningful conversations with people from diverse backgrounds.
 
-For an overview about me and my some project, you can see at [**my portfolio**](https://meoki.vn). And for some writing articles that I made or shared, let's take a look at [**my blog**](https://meoki.vn/blog). And if you want to see some other things about me, I have some profile platforms below, check it out!
+For an overview about me and my some projects, I have [**my portfolio**](https://meoki.vn) and [**my blog**](https://meoki.vn/blog), aiming to inspire and connect with fellow enthusiasts. For some other things, I have social platform profiles below, join me on this journey of creativity and discovery!
 
-Thanks for your attention ❤
+Thanks ❤
 ### Languages
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -53,7 +53,6 @@ Thanks for your attention ❤
 ### And a little Japanese culture
 *Hiii, about this 2D industry, we have a static anime-manga-lightnovel blog - [**A Lonely Comet**](https://alonelycomet.meoki.vn/), empire of dreamers, we write everything about anime-manga-light novel.*
 
-***[Vietnamese]** Xin chào, đối với những ai có hứng thú, chúng ta cũng có một blog [**A Lonely Comet**](https://alonelycomet.meoki.vn/) siêu xịn đây, thiên đường danh cho anh em wibu... Kèm theo đó là một server Discord bên dưới 😉*
 <p>
     <a href="https://alonelycomet.meoki.vn/"> <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/wibu-blog.png" /></a>
     <a href="https://discord.gg/hNpaMKMtN8"> <img width="400px" align="right" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/discord-small.png" /></a>
