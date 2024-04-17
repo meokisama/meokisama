@@ -66,7 +66,7 @@ Thanks ❤
 <!--[![](metrics.plugin.personal.anilist.svg)](https://anilist.co/user/meokisama/)-->
 
 ##
-___NOTE:___ _Top languages shown below does not indicate my skill level or something like that, like its title - "Most Used Languages", it's just a github metric of which languages I have the most code on Github._
+___NOTE:___ _The languages listed below do not necessarily reflect my proficiency level, as the title suggests - "Most Used Languages". Rather, they represent the languages in which I have contributed the most code on Github, serving as a metric of my activity on the platform._
 
 <p align="center">
     <a href="https://github.com/meokisama">
