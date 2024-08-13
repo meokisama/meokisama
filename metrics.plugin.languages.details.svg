@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="405.93986335413075" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="405.93986335413075" y="0" width="24.27209761936963" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="430.21196097350037" y="0" width="17.903954953771294" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="448.11591592727166" y="0" width="3.514630371309448" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="451.6305462985811" y="0" width="2.207806894829087" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.8383531934102" y="0" width="2.1093255059620106" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.94767869937226" y="0" width="2.077191108648444" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="458.02486980802064" y="0" width="1.9751301919793498" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="406.0201820208471" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="406.0201820208471" y="0" width="24.27690006104926" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="430.2970820818963" y="0" width="17.907497404071577" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="448.2045794859679" y="0" width="3.5153257709262578" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="451.71990525689415" y="0" width="2.20824372826716" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.92814898516133" y="0" width="2.0776020986383976" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="456.00575108379974" y="0" width="2.018727927854449" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.02447901165414" y="0" width="1.9755209883458362" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>54.8 MB</div>
-                                <div>88.25%</div>
+                                <div>88.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -71,13 +71,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#fcb32c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                MDX
+                                Python
                             </div>
                             <small>
-                                <div>280 kB</div>
-                                <div>0.45%</div>
+                                <div>272 kB</div>
+                                <div>0.44%</div>
                             </small>
                         </div>
                     </section>
@@ -109,13 +109,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#fcb32c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                MDX
                             </div>
                             <small>
-                                <div>285 kB</div>
-                                <div>0.46%</div>
+                                <div>280 kB</div>
+                                <div>0.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
