@@ -51,11 +51,11 @@ Thanks ❤
 ##
 
 ### And a little Japanese culture
-*Hiii, about this 2D industry, we have a static anime-manga-lightnovel blog - [**A Lonely Comet**](https://alonelycomet.meoki.vn/), empire of dreamers, we write everything about anime-manga-light novel.*
+*I am an avid light novel enthusiast, and I maintain a [**blog**](https://ranobe.vn/) to share my passion for the genre. Furthermore, I have created a website dedicated to [**Vietnamese Light Novel Ranking**](https://vnlnranking.moe/).*
 
 <p>
-    <a href="https://alonelycomet.meoki.vn/"> <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/wibu-blog.png" /></a>
-    <a href="https://discord.gg/hNpaMKMtN8"> <img width="400px" align="right" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/discord-small.png" /></a>
+    <a href="https://ranobe.vn/"> <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/ranobe-blog.png" /></a>
+    <a href="https://vnlnranking.moe/"> <img width="400px" align="right" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/ranobe-ranking.png" /></a>
 </p>
 <p>
     <img width="500px" src="metrics.plugin.personal.anilist.svg" />
