@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.5310092030506" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="409.5310092030506" y="0" width="18.075881173333357" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="427.60689037638394" y="0" width="14.712551728017447" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="442.3194421044014" y="0" width="4.857920346310544" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="447.17736245071194" y="0" width="4.442480962034434" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="451.6198434127464" y="0" width="4.257175507303711" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.8770189200501" y="0" width="2.0724738147630934" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.9494927348132" y="0" width="2.0505072651868" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.34042884489133" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="409.34042884489133" y="0" width="18.06746933679194" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="427.4078981816833" y="0" width="14.70570505874271" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="442.113603240426" y="0" width="4.855659652544495" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="446.9692628929705" y="0" width="4.469261109537728" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="451.43852400250825" y="0" width="4.440413598162507" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="455.8789376006708" y="0" width="2.0715093632490023" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.9504469639197" y="0" width="2.0495530360802716" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>54.8 MB</div>
-                                <div>89.03%</div>
+                                <div>88.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -59,12 +59,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Lua
+                                TypeScript
                             </div>
                             <small>
-                                <div>595 kB</div>
+                                <div>599 kB</div>
                                 <div>0.97%</div>
                             </small>
                         </div>
@@ -109,13 +109,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TypeScript
+                                Lua
                             </div>
                             <small>
-                                <div>570 kB</div>
-                                <div>0.93%</div>
+                                <div>595 kB</div>
+                                <div>0.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
