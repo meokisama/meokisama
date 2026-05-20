@@ -90,49 +90,8 @@ ___NOTE:___ _The languages listed below do not necessarily reflect my proficienc
 ##
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                1469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-🌆 Daytime                5617 commits        ██████████░░░░░░░░░░░░░░░   41.82 % 
-🌃 Evening                1670 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-🌙 Night                  4675 commits        █████████░░░░░░░░░░░░░░░░   34.81 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   4589 commits        █████████░░░░░░░░░░░░░░░░   34.17 % 
-Tuesday                  3126 commits        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-Wednesday                2185 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Thursday                 451 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Friday                   420 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Saturday                 1024 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Sunday                   1636 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-TypeScript               9 hrs 26 mins       █████████████░░░░░░░░░░░░   52.91 % 
-JavaScript               5 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-Other                    1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 12 mins      █████████████████░░░░░░░░   68.49 % 
-Unknown Editor           5 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.51 % 
-
-💻 Operating System: 
-Windows                  17 hrs 50 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 19/05/2026 04:14:31 UTC
+ Last Updated on 20/05/2026 04:15:28 UTC
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://github-profile-trophy.vercel.app/?username=meokisama&margin-w=4&no-frame=true&column=7)
