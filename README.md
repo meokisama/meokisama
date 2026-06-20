@@ -55,7 +55,7 @@ Thanks ❤
 
 <p>
     <a href="https://ranobe.vn/"> <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/ranobe-blog.png" /></a>
-    <a href="https://vnlnranking.moe/"> <img width="400px" align="right" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/ranobe-ranking.png" /></a>
+    <a href="https://hub.ranobe.vn/"> <img width="400px" align="right" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/ranobe-ranking.png" /></a>
 </p>
 <p>
     <img width="500px" src="metrics.plugin.personal.anilist.svg" />
