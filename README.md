@@ -6,13 +6,13 @@
 
 <h2> Greetings!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
-Hello there! I'm **Meoki**, a passionate individual with a curiosity-driven mindset. I find joy in exploring the wonders of the world and engaging in meaningful conversations with people from diverse backgrounds.
+Hello there! I'm **Meoki**, a technology enthusiast who enjoys building useful things, exploring new ideas, and continuously learning. Beyond, i'm a big fan of Japanese culture. I enjoy learning Japanese, exploring its traditions and culture, and yes, i’m proudly an otaku who loves anime, manga, and games.
 
-For an overview about me and my some projects, I have [**my portfolio**](https://meoki.vn) and [**my blog**](https://meoki.vn/blog), aiming to inspire and connect with fellow enthusiasts. For some other things, I have social platform profiles below, join me on this journey of creativity and discovery!
+Feel free to explore my projects and thanks for stopping by! ❤
 
-Thanks ❤
 ### Languages
 <p>
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -21,18 +21,16 @@ Thanks ❤
     <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
 ### Tools & Frameworks
 <p>
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img alt="React" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"/>
+    <img alt="NextJS" src="https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-    <img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
@@ -43,15 +41,24 @@ Thanks ❤
 - Information in public on <a href="https://meoki.vn/">__Portfolio__</a> ✍🏾
 - Sharing updates on <a href="https://facebook.com/slytherinnn/">__Facebook__</a> 💼
 - Other products on <a href="https://www.behance.net/meokisama">__Behance__</a> 🏓
-- Daily photos on <a href="https://www.instagram.com/hi.im.meoki/">__Instagram__</a> 📷
+- Daily photos on <a href="https://www.instagram.com/meokisama/">__Instagram__</a> 📷
 - "Wibu" collection on <a href="https://www.flickr.com/photos/meokisama/albums">__Flickr__</a> 👾
 
 <br>
 
 ##
 
-### And a little Japanese culture
-*I am an avid light novel enthusiast, and I maintain a [**blog**](https://ranobe.vn/) to share my passion for the genre. Furthermore, I have created a website dedicated to [**Vietnamese Light Novel Ranking**](https://vnlnranking.moe/).*
+### Japanese Culture & Light Novels 🇯🇵
+
+Outside of programming, I'm a passionate light novel reader and a fan of Japanese culture. Over the years, I've built several projects to contribute to the Vietnamese light novel community:
+
+* 📚 [**Ranobe.vn**](https://ranobe.vn/) — My personal blog about light novels.
+* 🌸 [**Ranobe Hub**](https://hub.ranobe.vn/) — A platform for sharing light novels.
+* 📖 [**Aozora**](https://github.com/meokisama/aozora) — A desktop EPUB reader for an enjoyable Japanese reading experience.
+* 🏆 [**Vietnamese Light Novel Ranking**](https://bxh.lightnovel.vn/) — A community ranking website for light novels.
+
+Building these projects is my way of combining my passion for software development with my love for Japanese culture.
+
 
 <p>
     <a href="https://ranobe.vn/"> <img width="400px" src="https://raw.githubusercontent.com/meokisama/meokisama/master/image/ranobe-blog.png" /></a>
