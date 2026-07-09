@@ -100,21 +100,21 @@ ___NOTE:___ _The languages listed below do not necessarily reflect my proficienc
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1478 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-🌆 Daytime                3384 commits        ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-🌃 Evening                1757 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-🌙 Night                  4683 commits        ██████████░░░░░░░░░░░░░░░   41.44 % 
+🌞 Morning                1482 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+🌆 Daytime                3388 commits        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+🌃 Evening                1757 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+🌙 Night                  4683 commits        ██████████░░░░░░░░░░░░░░░   41.41 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3018 commits        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-Tuesday                  3108 commits        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-Wednesday                648 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Thursday                 1335 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Monday                   3018 commits        ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+Tuesday                  3108 commits        ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+Wednesday                654 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Thursday                 1337 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 Friday                   467 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Saturday                 1043 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Sunday                   1683 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Saturday                 1043 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Sunday                   1683 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 ```
 
 
@@ -124,22 +124,22 @@ Sunday                   1683 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               19 hrs 4 mins       ███████████████░░░░░░░░░░   60.99 % 
-Markdown                 6 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Prisma                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+TypeScript               22 hrs              ████████████████░░░░░░░░░   64.45 % 
+Markdown                 6 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Prisma                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 35 mins      ██████████████████░░░░░░░   72.24 % 
-VS Code                  8 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+Claude Code              25 hrs 31 mins      ███████████████████░░░░░░   74.71 % 
+VS Code                  8 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
 
 💻 Operating System: 
-Windows                  31 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/07/2026 03:29:02 UTC
+ Last Updated on 09/07/2026 03:51:54 UTC
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://github-profile-trophy.vercel.app/?username=meokisama&margin-w=4&no-frame=true&column=7)
