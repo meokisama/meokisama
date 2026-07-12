@@ -100,10 +100,10 @@ ___NOTE:___ _The languages listed below do not necessarily reflect my proficienc
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1484 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+🌞 Morning                1484 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
 🌆 Daytime                3390 commits        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-🌃 Evening                1757 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-🌙 Night                  4683 commits        ██████████░░░░░░░░░░░░░░░   41.39 % 
+🌃 Evening                1759 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+🌙 Night                  4683 commits        ██████████░░░░░░░░░░░░░░░   41.38 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
@@ -113,8 +113,8 @@ Tuesday                  3108 commits        ███████░░░░�
 Wednesday                654 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 Thursday                 1337 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 Friday                   471 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Saturday                 1043 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Sunday                   1683 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Saturday                 1045 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Sunday                   1683 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 ```
 
 
@@ -124,22 +124,22 @@ Sunday                   1683 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               17 hrs 38 mins      ████████████████░░░░░░░░░   64.94 % 
-Markdown                 4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Prisma                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+TypeScript               17 hrs              ████████████████░░░░░░░░░   65.13 % 
+Markdown                 4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Prisma                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 12 mins      ████████████████████░░░░░   81.76 % 
-VS Code                  4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Claude Code              21 hrs 31 mins      █████████████████████░░░░   82.46 % 
+VS Code                  4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
 
 💻 Operating System: 
-Windows                  27 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  26 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/07/2026 03:07:40 UTC
+ Last Updated on 12/07/2026 03:33:12 UTC
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://github-profile-trophy.vercel.app/?username=meokisama&margin-w=4&no-frame=true&column=7)
