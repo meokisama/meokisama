@@ -167,7 +167,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
  Last Updated on 06/08/2026 03:03:26 UTC
 <!--END_SECTION:waka-->
 ### Summary
-![trophy](https://github-profile-trophy.vercel.app/?username=meokisama&margin-w=4&no-frame=true&column=7)
+![trophy](https://trophy.ryglcloud.net/?username=meokisama&margin-w=4&no-frame=true&column=7)
 
 *That's all, thanks and have a nice day!*
 
