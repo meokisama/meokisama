@@ -77,10 +77,10 @@ ___NOTE:___ _The languages listed below do not necessarily reflect my proficienc
 
 <p align="center">
     <a href="https://github.com/meokisama">
-        <img src="https://github-readme-stats.vercel.app/api?username=meokisama&show_icons=true&include_all_commits=true&theme=vue&count_private=true&line_height=28.8" alt="Meoki's github stats" width="450px"/>
+        <img src="https://github-stats-extended.vercel.app/api?username=meokisama&show_icons=true&include_all_commits=true&theme=vue&count_private=true&line_height=28.8" alt="Meoki's github stats" width="450px"/>
     </a>
     <a href="https://github.com/meokisama">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meokisama&layout=compact&theme=vue&langs_count=8" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=meokisama&layout=compact&theme=vue&langs_count=8" />
     </a>
 </p>
     
