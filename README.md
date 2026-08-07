@@ -97,8 +97,49 @@ ___NOTE:___ _The languages listed below do not necessarily reflect my proficienc
 ##
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 07/08/2026 02:06:38 UTC
+```text
+🌞 Morning                1455 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+🌆 Daytime                3330 commits        ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+🌃 Evening                1667 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+🌙 Night                  4653 commits        ██████████░░░░░░░░░░░░░░░   41.90 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2989 commits        ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+Tuesday                  3060 commits        ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Wednesday                648 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Thursday                 1335 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Friday                   417 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Saturday                 1022 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Sunday                   1634 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+JavaScript               23 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   41.20 % 
+Markdown                 16 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+Python                   6 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+PowerShell               3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+C#                       2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+
+🔥 Editors: 
+Claude Code              53 hrs 52 mins      ████████████████████████░   94.98 % 
+VS Code                  2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+
+💻 Operating System: 
+Windows                  56 hrs 42 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 07/08/2026 03:00:39 UTC
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://trophy.ryglcloud.net/?username=meokisama&margin-w=4&no-frame=true&column=7)
