@@ -124,22 +124,22 @@ Sunday                   1638 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               16 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   32.09 % 
-Python                   13 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-Markdown                 13 hrs 23 mins      ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-C#                       3 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+JavaScript               14 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   31.71 % 
+Python                   13 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+Markdown                 12 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+C#                       1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-Claude Code              49 hrs 44 mins      ████████████████████████░   95.92 % 
-VS Code                  2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Claude Code              44 hrs 30 mins      ████████████████████████░   95.85 % 
+VS Code                  1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 💻 Operating System: 
-Windows                  51 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  46 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/08/2026 02:31:26 UTC
+ Last Updated on 14/08/2026 02:27:11 UTC
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://trophy.ryglcloud.net/?username=meokisama&margin-w=4&no-frame=true&column=7)
