@@ -100,7 +100,7 @@ ___NOTE:___ _The languages listed below do not necessarily reflect my proficienc
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1474 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+🌞 Morning                1475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
 🌆 Daytime                3368 commits        ████████░░░░░░░░░░░░░░░░░   30.07 % 
 🌃 Evening                1699 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
 🌙 Night                  4658 commits        ██████████░░░░░░░░░░░░░░░   41.59 % 
@@ -113,7 +113,7 @@ Tuesday                  3080 commits        ███████░░░░�
 Wednesday                654 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 Thursday                 1342 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 Friday                   440 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Saturday                 1035 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Saturday                 1036 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 Sunday                   1643 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
 ```
 
@@ -124,18 +124,18 @@ Sunday                   1643 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               6 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.91 % 
-C#                       4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-Other                    3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-Markdown                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-PowerShell               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+JavaScript               3 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.36 % 
+Markdown                 3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+C#                       3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+Other                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Windows                  16 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/09/2026 03:56:55 UTC
+ Last Updated on 05/09/2026 03:58:27 UTC
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://trophy.ryglcloud.net/?username=meokisama&margin-w=4&no-frame=true&column=7)
