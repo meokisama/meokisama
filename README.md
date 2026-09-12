@@ -100,21 +100,21 @@ ___NOTE:___ _The languages listed below do not necessarily reflect my proficienc
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1483 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-🌆 Daytime                3379 commits        ████████░░░░░░░░░░░░░░░░░   30.09 % 
-🌃 Evening                1709 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-🌙 Night                  4659 commits        ██████████░░░░░░░░░░░░░░░   41.49 % 
+🌞 Morning                1486 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+🌆 Daytime                3379 commits        ████████░░░░░░░░░░░░░░░░░   30.08 % 
+🌃 Evening                1710 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+🌙 Night                  4659 commits        ██████████░░░░░░░░░░░░░░░   41.47 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3005 commits        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-Tuesday                  3091 commits        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+Monday                   3005 commits        ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+Tuesday                  3091 commits        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
 Wednesday                666 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 Thursday                 1348 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Friday                   440 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Saturday                 1036 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Sunday                   1644 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Friday                   441 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Saturday                 1039 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Sunday                   1644 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 ```
 
 
@@ -124,18 +124,18 @@ Sunday                   1644 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 15 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   38.12 % 
-TypeScript               8 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-JavaScript               5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Other                    4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Python                   3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Markdown                 13 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.40 % 
+TypeScript               8 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+Other                    4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Python                   3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+JavaScript               3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 
 💻 Operating System: 
-Windows                  41 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/09/2026 04:02:41 UTC
+ Last Updated on 12/09/2026 04:05:32 UTC
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://trophy.ryglcloud.net/?username=meokisama&margin-w=4&no-frame=true&column=7)
