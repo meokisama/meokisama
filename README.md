@@ -100,8 +100,8 @@ ___NOTE:___ _The languages listed below do not necessarily reflect my proficienc
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1535 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-🌆 Daytime                3455 commits        ████████░░░░░░░░░░░░░░░░░   30.22 % 
+🌞 Morning                1536 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+🌆 Daytime                3455 commits        ████████░░░░░░░░░░░░░░░░░   30.21 % 
 🌃 Evening                1780 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 🌙 Night                  4664 commits        ██████████░░░░░░░░░░░░░░░   40.79 % 
 ```
@@ -113,7 +113,7 @@ Tuesday                  3125 commits        ███████░░░░�
 Wednesday                699 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 Thursday                 1372 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 Friday                   472 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Saturday                 1079 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Saturday                 1080 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
 Sunday                   1666 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 ```
 
@@ -124,18 +124,18 @@ Sunday                   1666 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               15 hrs 28 mins      ██████████████░░░░░░░░░░░   54.17 % 
-Markdown                 5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Other                    2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Text                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+TypeScript               12 hrs 52 mins      ████████████░░░░░░░░░░░░░   48.91 % 
+Markdown                 3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Python                   3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 💻 Operating System: 
-Windows                  28 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/10/2026 04:04:02 UTC
+ Last Updated on 17/10/2026 03:53:40 UTC
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://trophy.ryglcloud.net/?username=meokisama&margin-w=4&no-frame=true&column=7)
