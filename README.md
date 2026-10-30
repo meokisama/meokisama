@@ -124,18 +124,18 @@ Sunday                   1669 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 7 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.77 % 
-C++                      3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-C#                       3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Python                   2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-JavaScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Markdown                 5 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.48 % 
+C++                      3 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+Python                   2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+C#                       2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 💻 Operating System: 
-Windows                  20 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/10/2026 05:12:59 UTC
+ Last Updated on 30/10/2026 05:13:23 UTC
 <!--END_SECTION:waka-->
 ### Summary
 ![trophy](https://trophy.ryglcloud.net/?username=meokisama&margin-w=4&no-frame=true&column=7)
