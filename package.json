@@ -1,0 +1,12 @@
+{
+  "name": "meokisama-profile",
+  "private": true,
+  "type": "module",
+  "description": "Generator for the SVG sheets used in the profile README.",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "devDependencies": {
+    "fontkit": "^2.0.4"
+  }
+}
