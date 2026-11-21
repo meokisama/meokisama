@@ -35,11 +35,14 @@
 <a href="https://github.com/meokisama/moe2d"><img src="assets/work-moe2d.svg" width="49.5%" alt="第弐話 moe2d. Live2D characters that live on your web pages."></a>
 <a href="https://github.com/meokisama/gloss"><img src="assets/work-gloss.svg" width="49.5%" alt="第参話 Gloss. Select text anywhere, press a hotkey, read it in your language."></a>
 
-<a href="https://books.tmw.moe"><img src="assets/work-tmw-archive.svg" width="49.5%" alt="第肆話 TMW Archive 書庫. The books are on the shelf. The key is on Discord."></a>
-<a href="https://github.com/meokisama/ranobe-hub"><img src="assets/work-ranobe-hub.svg" width="49.5%" alt="第伍話 Ranobe Hub. One tidy shelf for every light novel I get asked to share."></a>
+<a href="https://ga.ranobe.vn"><img src="assets/work-ranobe-giveaway.svg" width="49.5%" alt="第肆話 Giveaway Booster. A light novel quiz, dealt out of a booster pack."></a>
+<a href="https://bxh.lightnovel.vn"><img src="assets/work-bxh-lnvn.svg" width="49.5%" alt="第伍話 Light Novel Ranking. Vietnam's light novel readers, one ballot at a time."></a>
 
-<a href="https://github.com/meokisama/ranobe-blog"><img src="assets/work-ranobe-blog.svg" width="49.5%" alt="第陸話 Ranobe Blog. A quiet corner of the internet for light-novel thoughts."></a>
-<a href="https://github.com/meokisama/toolkit-engine"><img src="assets/work-toolkit-engine.svg" width="49.5%" alt="第漆話 Toolkit Engine. The control desk for buildings that think."></a>
+<a href="https://books.tmw.moe"><img src="assets/work-tmw-archive.svg" width="49.5%" alt="第陸話 TMW Archive 書庫. The books are on the shelf. The key is on Discord."></a>
+<a href="https://github.com/meokisama/ranobe-hub"><img src="assets/work-ranobe-hub.svg" width="49.5%" alt="第漆話 Ranobe Hub. One tidy shelf for every light novel I get asked to share."></a>
+
+<a href="https://github.com/meokisama/ranobe-blog"><img src="assets/work-ranobe-blog.svg" width="49.5%" alt="第捌話 Ranobe Blog. A quiet corner of the internet for light-novel thoughts."></a>
+<a href="https://github.com/meokisama/toolkit-engine"><img src="assets/work-toolkit-engine.svg" width="49.5%" alt="第玖話 Toolkit Engine. The control desk for buildings that think."></a>
 
 </div>
 

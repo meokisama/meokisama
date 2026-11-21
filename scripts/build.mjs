@@ -634,25 +634,37 @@ const WORKS = [
     theme: { bg: "#17140f", fg: "#f3efe6", wash: "#e2421f", dark: true },
   },
   {
-    slug: "tmw-archive", numeral: "肆", title: "TMW Archive", jp: "書庫", kind: "Community library", year: "2026",
+    slug: "ranobe-giveaway", numeral: "肆", title: "Giveaway Booster", kind: "Event site", year: "2026",
+    tagline: "A light novel quiz, dealt out of a booster pack.",
+    stack: ["Next.js", "Three.js", "GSAP", "Lenis", "Tailwind"],
+    theme: { bg: "#fbdde9", fg: "#35101f", wash: "#ff5fa8" },
+  },
+  {
+    slug: "bxh-lnvn", numeral: "伍", title: "Light Novel Ranking", kind: "Community ranking", year: "2026",
+    tagline: "Vietnam's light novel readers, one ballot at a time.",
+    stack: ["Next.js", "React Three Fiber", "Motion", "Lenis", "Tailwind"],
+    theme: { bg: "#1a0f0b", fg: "#f4ece0", wash: "#ff6a2b", dark: true },
+  },
+  {
+    slug: "tmw-archive", numeral: "陸", title: "TMW Archive", jp: "書庫", kind: "Community library", year: "2026",
     tagline: "The books are on the shelf. The key is on Discord.",
     stack: ["Next.js", "PostgreSQL", "Meilisearch", "discord.js"],
     theme: { bg: "#e3ead9", fg: "#16240f", wash: "#8fb36a" },
   },
   {
-    slug: "ranobe-hub", numeral: "伍", title: "Ranobe Hub", kind: "Web platform", year: "2025",
+    slug: "ranobe-hub", numeral: "漆", title: "Ranobe Hub", kind: "Web platform", year: "2025",
     tagline: "One tidy shelf for every light novel I get asked to share.",
     stack: ["Next.js", "Express", "MongoDB"],
     theme: { bg: "#f6e3d0", fg: "#2e1a0b", wash: "#f0a560" },
   },
   {
-    slug: "ranobe-blog", numeral: "陸", title: "Ranobe Blog", kind: "Publication", year: "2024",
+    slug: "ranobe-blog", numeral: "捌", title: "Ranobe Blog", kind: "Publication", year: "2024",
     tagline: "A quiet corner of the internet for light-novel thoughts.",
     stack: ["Next.js", "MDX", "Keystatic", "Tailwind"],
     theme: { bg: "#efe9d3", fg: "#26220f", wash: "#d9c26a" },
   },
   {
-    slug: "toolkit-engine", numeral: "漆", title: "Toolkit Engine", kind: "Industrial software", year: "2025",
+    slug: "toolkit-engine", numeral: "玖", title: "Toolkit Engine", kind: "Industrial software", year: "2025",
     tagline: "The control desk for buildings that think. Its sibling, Rhythm Glow, turns music into colour and sends it down the same wire.",
     stack: ["Electron", "React", "UDP", "Microsoft Store"],
     theme: { bg: "#131b33", fg: "#e9edf7", wash: "#3d6bff", dark: true },
@@ -663,6 +675,8 @@ const SFX = {
   aozora: "ペラッ",
   moe2d: "ぷにっ",
   gloss: "ピコン!",
+  "ranobe-giveaway": "ビリッ",
+  "bxh-lnvn": "ドドン",
   "tmw-archive": "ガチャ",
   "ranobe-hub": "ずらり",
   "ranobe-blog": "カキカキ",
@@ -788,6 +802,92 @@ const ART = {
       `<rect class="car" x="${r(px + 18 + measure("sunlight filtering through leaves", "body", 19.5) + 4)}" y="${py + 38}" width="2" height="20" fill="${t.wash}"/>`,
       `</g>`,
     );
+  },
+
+  "ranobe-giveaway"(doc, t, b) {
+    // a booster pack tears open and deals the three prize cards
+    const T = 9, lip = 16;
+    const pw = 118, ph = b.h - 14, px = b.x + 24, py = b.y + 8;
+    const torn = "transform:translate(-6px,-9px) rotate(-12deg)";
+    doc.css.push(
+      `.tear{transform-box:fill-box;transform-origin:0 100%;animation:tear ${T}s cubic-bezier(.5,0,.2,1) infinite}@keyframes tear{0%,8%{transform:none;opacity:1}20%,88%{${torn};opacity:1}94%{${torn};opacity:0}95%{transform:none;opacity:0}100%{transform:none;opacity:1}}`,
+      `.deal{transform-box:fill-box;transform-origin:50% 100%;animation:deal ${T}s cubic-bezier(.16,1,.3,1) infinite}@keyframes deal{0%,16%{opacity:0;transform:translate(-90px,20px) scale(.5)}30%,86%{opacity:1;transform:none}94%,100%{opacity:0;transform:translateY(-12px)}}`,
+      `.foil{animation:foil 3s ease-in-out infinite alternate}@keyframes foil{from{transform:translateX(-30px)}to{transform:translateX(40px)}}`,
+    );
+    const clip = doc.id("c");
+    doc.defs.push(`<clipPath id="${clip}"><rect x="${px}" y="${py + lip}" width="${pw}" height="${ph - lip}" rx="6"/></clipPath>`);
+    let teeth = `M${px} ${py + lip}V${py + 6}`;
+    for (let i = 0; i < 8; i++) teeth += `l${pw / 16}-6 ${pw / 16} 6`;
+    teeth += `V${py + lip}Z`;
+    const mx = px + pw / 2, my = py + lip + (ph - lip) / 2;
+    doc.add(
+      `<rect x="${px + 6}" y="${py + lip + 7}" width="${pw}" height="${ph - lip}" rx="6" fill="${t.fg}" opacity=".14"/>`,
+      `<rect x="${px + 8}" y="${py + lip - 5}" width="${pw - 16}" height="5" fill="${t.fg}"/>`,
+      `<rect x="${px}" y="${py + lip}" width="${pw}" height="${ph - lip}" rx="6" fill="${t.wash}"/>`,
+      `<g clip-path="url(#${clip})"><path class="foil" d="M${px + 30} ${py}h26l-40 ${ph + 20}h-26z" fill="#fff" opacity=".35"/></g>`,
+      `<rect x="${px}" y="${py + lip}" width="${pw}" height="${ph - lip}" rx="6" fill="none" stroke="${K}" stroke-width="3"/>`,
+      `<path transform="translate(${mx} ${r(my - 34)}) scale(2.6)" d="${SPARK}" fill="${C.yellow}" stroke="${K}" stroke-width=".9" stroke-linejoin="round"/>`,
+      doc.text("BOOSTER", { font: "pop", size: fit("BOOSTER", "pop", 19, pw - 22), x: mx, y: my + 14, anchor: "middle", fill: "#fff", outline: [K, 4] }),
+      doc.text("20 QUESTIONS", { font: "mono", size: 9, track: 0.1, x: mx, y: my + 36, anchor: "middle", fill: t.fg }),
+      `<g class="tear"><path d="${teeth}" fill="${mix(t.wash, "#ffffff", 0.35)}" stroke="${K}" stroke-width="3" stroke-linejoin="round"/></g>`,
+    );
+    const cards = [["UR", C.yellow, "1ST"], ["SR", C.cyan, "2ND"], ["R", C.purple, "3RD"]];
+    const ax = px + pw + 34, gap = (b.x + b.w - ax - 92) / 2, cy = b.y + b.h / 2 + 2;
+    cards.forEach(([rare, tone, place], i) => {
+      doc.add(
+        `<g transform="translate(${r(ax + 46 + i * gap)} ${r(cy + Math.abs(i - 1) * 8)}) rotate(${(i - 1) * 8})"><g class="deal" style="animation-delay:${(i * 0.3 - T).toFixed(1)}s">`,
+        `<rect x="-42" y="-59" width="92" height="128" rx="9" fill="${t.fg}" opacity=".15"/>`,
+        `<rect x="-46" y="-64" width="92" height="128" rx="9" fill="#fff" stroke="${K}" stroke-width="3"/>`,
+        `<rect x="-38" y="-56" width="76" height="112" rx="5" fill="${tone}"/>`,
+        doc.text(place, { font: "mono", size: 9.5, track: 0.1, x: -31, y: -40, fill: K }),
+        `<path transform="translate(26 -43) scale(.8)" d="${SPARK}" fill="#fff"/>`,
+        doc.text(rare, { font: "pop", size: 38, x: 0, y: 14, anchor: "middle", fill: "#fff", outline: [K, 5] }),
+        `<rect x="-31" y="34" width="62" height="3" rx="1.5" fill="${K}" opacity=".4"/><rect x="-31" y="42" width="38" height="3" rx="1.5" fill="${K}" opacity=".4"/>`,
+        `</g></g>`,
+      );
+    });
+  },
+
+  "bxh-lnvn"(doc, t, b) {
+    // covers circling an eclipse, beside the top three filling up
+    const cx = b.x + b.w - 152, cy = r(b.y + b.h / 2), R = 54, rx = 142, ry = 36, tilt = -12, T = 16;
+    doc.css.push(
+      `.bar{transform-box:fill-box;transform-origin:0 50%;animation:bar 8s cubic-bezier(.16,1,.3,1) infinite}@keyframes bar{0%{transform:scaleX(0)}14%,86%{transform:scaleX(1)}96%,100%{transform:scaleX(0)}}`,
+      `.cor{animation:cor 4s ease-in-out infinite alternate}@keyframes cor{from{opacity:.55}to{opacity:1}}`,
+    );
+    const glow = doc.id("g"), back = doc.id("c"), front = doc.id("c");
+    doc.defs.push(
+      `<radialGradient id="${glow}"><stop offset=".42" stop-color="${t.wash}" stop-opacity=".85"/><stop offset="1" stop-color="${t.wash}" stop-opacity="0"/></radialGradient>`,
+      `<clipPath id="${back}"><rect x="${cx - 200}" y="${cy - 120}" width="400" height="120"/></clipPath>`,
+      `<clipPath id="${front}"><rect x="${cx - 200}" y="${cy}" width="400" height="120"/></clipPath>`,
+    );
+    const orbit = `M${cx - rx} ${cy}a${rx} ${ry} 0 1 0 ${rx * 2} 0a${rx} ${ry} 0 1 0 ${-rx * 2} 0`;
+    const covers = ["#214085", "#e04521", "#f2ad1a", "#8566c2", "#339978", "#ed809e"]
+      .map(
+        (tone, i) =>
+          `<g><animateMotion dur="${T}s" begin="-${r((i * T) / 6)}s" repeatCount="indefinite" path="${orbit}"/><g transform="rotate(${-tilt})">` +
+          `<rect x="-15" y="-22" width="30" height="44" rx="3" fill="${tone}" stroke="${K}" stroke-width="1.5"/>` +
+          `<rect x="-15" y="-22" width="30" height="13" rx="3" fill="#fff" opacity=".3"/><rect x="-10" y="11" width="16" height="2" fill="#fff" opacity=".8"/></g></g>`,
+      )
+      .join("");
+    // the same covers twice: the upper half of the orbit passes behind the disc, the lower half in front
+    const half = (id) => `<g clip-path="url(#${id})" transform="rotate(${tilt} ${cx} ${cy})">${covers}</g>`;
+    doc.add(
+      `<circle cx="${cx}" cy="${cy}" r="${R * 2.2}" fill="url(#${glow})"/>`,
+      half(back),
+      `<circle class="cor" cx="${cx}" cy="${cy}" r="${R + 3}" fill="#ffe2b8"/>`,
+      `<circle cx="${cx - 4}" cy="${cy + 3}" r="${R}" fill="#0b0604"/>`,
+      half(front),
+    );
+    const by = cy - 40;
+    [132, 100, 74].forEach((w, i) => {
+      const y = by + i * 34;
+      doc.add(
+        doc.text(`0${i + 1}`, { font: "pop", size: 20, x: b.x + 2, y: y + 7, fill: i ? t.fg : C.yellow }),
+        `<rect class="bar" x="${b.x + 40}" y="${r(y - 8)}" width="${w}" height="15" rx="7.5" fill="${i ? mix(t.wash, t.bg, 0.5) : t.wash}" style="animation-delay:${(i * 0.25 - 8).toFixed(2)}s"/>`,
+      );
+    });
+    doc.add(doc.text("3,018 BALLOTS", { font: "mono", size: 10.5, track: 0.12, x: b.x + 2, y: by + 108, fill: t.fg, attrs: `opacity=".6"` }));
   },
 
   "tmw-archive"(doc, t, b) {
